@@ -1,4 +1,4 @@
-# ans_qstn_app
+# Quiz App
 
 ### You should have fun while learning. That's why I added some fun questions to make my work more interesting.
 
